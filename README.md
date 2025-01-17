@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋..., I'm We Are Inn0V_AuraS A Tech Enthusiast Group</h1>
+<h1 align="center">Hey there! 👋..., We Are Inn0V_AuraS A Tech Enthusiast Group</h1>
 <h3 align="center">GET READY FOR THE TECH BANG LADIES AND GENTLEMENS...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innov-auras&label=Profile%20views&color=0e75b6&style=flat" alt="innov-auras" /> </p>
@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innov-auras&show_icons=true&locale=en&layout=compact" alt="innov-auras" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innov-auras&" alt="innov-auras" /></p>
+
