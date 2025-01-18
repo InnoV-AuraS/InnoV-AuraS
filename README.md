@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋..., We Are Inn0V_AuraS A Tech Enthusiast Group</h1>
+<h1 align="center">Hey there! 👋..., We Are InOV_AuraZ A Tech Enthusiast Group</h1>
 <h3 align="center">GET READY FOR THE TECH BANG LADIES AND GENTLEMENS...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innov-auras&label=Profile%20views&color=0e75b6&style=flat" alt="innov-auras" /> </p>
